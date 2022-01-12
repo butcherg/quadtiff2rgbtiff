@@ -10,6 +10,17 @@ to produce an RGB-encoded image.
 
 libtiff, on Debian/Ubuntu systems, do "sudo apt install libtiff-dev"
 
+# Building
+
+## Compiling
+```
+make
+```
+## Cleaning
+```
+make clean
+```
+
 # Usage
 
 This program was originally written to accommodate an astro workflow that starts with FITS files.  It can be incorporated in a
